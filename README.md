@@ -3,8 +3,8 @@
 
 // To Do:
 
-// 1: Make Logo
+// 1: Create IRC
 
-// 2: Create IRC
+// 2: Make OS
 
-// 3: Make OS
+// 3: Make Logo
